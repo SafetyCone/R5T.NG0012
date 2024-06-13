@@ -1,5 +1,5 @@
 # R5T.NG0012
-WinForms selector library.
+WinForms (Windows Forms) selector library.
 
 Note that WinForms (System.Windows.Forms) cannot be selected as a NuGet package like all other functionality.
 
